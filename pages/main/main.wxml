@@ -1,0 +1,3 @@
+
+<view>{{name}}</view>
+<button bindtap='btn'>西看看</button>
